@@ -1,0 +1,29 @@
+nav {
+  text-align: center;
+}
+
+nav a {
+  margin: 0 15px;
+  font-size: 20px;
+  color: black;
+  text-decoration: none;
+}
+
+h1 {
+  text-align: center;
+}
+.centerForm {
+  width: 50%; /* adjust as needed */
+  margin: 0 auto;
+  text-align: center; /* to align the labels and inputs to the left */
+}
+
+li {
+  margin: 15px 0;
+  font-size: large !important;
+}
+
+.ruleGuides {
+  text-align: center;
+  font-size: 20px;
+}
